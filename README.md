@@ -71,8 +71,7 @@ And when alignment is done:
 ## What's in this repo
 
 ```
-SKILL.md       the installable skill (behavior, workflow, posture)
-references/    the ADR-style decision-document template
+skills/design-partner/   the installable skill (SKILL.md + ADR decision-document template)
 ```
 
 ## License
